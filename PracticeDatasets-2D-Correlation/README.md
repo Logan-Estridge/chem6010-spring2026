@@ -4,7 +4,7 @@ This folder contains a dataset of a time series sampled from a two-dimensional d
 
 To practice, you should try the following task:
 - Plot and visualize the time series of the $x$ and $y$ variables (ensure to have the correct time axis). What do you observe?
-  - each variable is oscillating around zero 
+  - LE: each variable is oscillating around zero 
 - Estimate the one-dimensional densities $P(x)$ and $P(y)$ by using discrete histograms and kernel density estimation.
   - Here, you should compare the histogram to the KDE to determine the appropriate bandwidth parameters. It is easy to oversmooth the KDE densities using bandwidth parameters that are too large. 
 - Estimate the two-dimensional density $P(x,y)$ by using histogramming or KDE.
